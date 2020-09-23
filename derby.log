@@ -1,0 +1,288 @@
+----------------------------------------------------------------
+Tue Sep 22 19:53:56 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\95b37975-d13c-49ee-9a70-7c8e9126ad54 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 20:03:56 IST 2020:
+Shutting down instance a816c00e-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\95b37975-d13c-49ee-9a70-7c8e9126ad54 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 20:03:57 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d46b80cd-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\c4586133-fcdd-44b4-99e0-fce9f981236c with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 20:04:13 IST 2020:
+Shutting down instance d46b80cd-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\c4586133-fcdd-44b4-99e0-fce9f981236c with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 20:04:14 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c8300181-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\05b61d10-18ac-478b-82ba-6254ec03c5d6 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 20:05:28 IST 2020:
+Shutting down instance c8300181-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\05b61d10-18ac-478b-82ba-6254ec03c5d6 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 20:05:30 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance db988235-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\fee5f403-ffc4-43c2-9025-b6a5bd0cb465 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 20:05:34 IST 2020:
+Shutting down instance db988235-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\fee5f403-ffc4-43c2-9025-b6a5bd0cb465 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 20:05:36 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0ea502e9-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\1790ca81-7a85-461e-8cbd-4166b8dc7e24 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 20:05:53 IST 2020:
+Shutting down instance 0ea502e9-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\1790ca81-7a85-461e-8cbd-4166b8dc7e24 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 20:05:55 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6155839d-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\e7b8aab7-cc1a-44f7-b533-5dd1b3537c4c with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 20:06:19 IST 2020:
+Shutting down instance 6155839d-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\e7b8aab7-cc1a-44f7-b533-5dd1b3537c4c with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 20:06:21 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d3aa0451-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\f8837c2a-455d-44ec-9f3a-d3eef304edf9 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 20:06:29 IST 2020:
+Shutting down instance d3aa0451-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\f8837c2a-455d-44ec-9f3a-d3eef304edf9 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 20:06:30 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 65a28505-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\5b8f6f4a-7fe0-4eb3-997f-67187d112dce with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:04:40 IST 2020:
+Shutting down instance 65a28505-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\5b8f6f4a-7fe0-4eb3-997f-67187d112dce with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:04:41 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5d418604-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\72470197-0ef9-4436-bc29-fc1ab4a0ab38 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:06:30 IST 2020:
+Shutting down instance 5d418604-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\72470197-0ef9-4436-bc29-fc1ab4a0ab38 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:06:31 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5bb106b8-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\2e64f306-f098-40c0-9191-eb223d838b43 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:07:57 IST 2020:
+Shutting down instance 5bb106b8-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\2e64f306-f098-40c0-9191-eb223d838b43 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:07:59 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 79c4876c-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\11722558-4aac-455c-b235-48a0c159f160 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:08:01 IST 2020:
+Shutting down instance 79c4876c-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\11722558-4aac-455c-b235-48a0c159f160 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:08:02 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b77c0820-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\234078d7-6df0-43c8-9911-2c4a84e5b8d2 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:08:11 IST 2020:
+Shutting down instance b77c0820-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\234078d7-6df0-43c8-9911-2c4a84e5b8d2 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:08:12 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 14d788d4-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\b845daf2-c6bf-4f77-9144-d6a5c381f549 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:08:20 IST 2020:
+Shutting down instance 14d788d4-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\b845daf2-c6bf-4f77-9144-d6a5c381f549 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:08:22 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 91d70988-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\a7bbb28b-1828-454d-b903-75fde09684e5 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:08:26 IST 2020:
+Shutting down instance 91d70988-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\a7bbb28b-1828-454d-b903-75fde09684e5 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:08:28 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2e7a8a3c-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\eb4cad22-26c9-48ce-96ce-38ef3e4e2a9c with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:08:48 IST 2020:
+Shutting down instance 2e7a8a3c-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\eb4cad22-26c9-48ce-96ce-38ef3e4e2a9c with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:08:50 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance eac20af0-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\4704f634-702b-40c1-ae99-546b5b3b0b93 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:08:52 IST 2020:
+Shutting down instance eac20af0-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\4704f634-702b-40c1-ae99-546b5b3b0b93 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:08:53 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c6ad8ba4-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\22896eb9-ac11-455b-bd1d-fb9507c2126b with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:08:59 IST 2020:
+Shutting down instance c6ad8ba4-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\22896eb9-ac11-455b-bd1d-fb9507c2126b with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Tue Sep 22 21:09:00 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c23d0c58-0174-b633-19a0-00000fa27c50 
+on database directory memory:F:\Tool Development\perm-comparator\8380c36c-3953-45a9-9ce0-89f65fa06642 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=F:\Tool Development\perm-comparator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 23:26:39 IST 2020:
+Shutting down instance c23d0c58-0174-b633-19a0-00000fa27c50 on database directory memory:F:\Tool Development\perm-comparator\8380c36c-3953-45a9-9ce0-89f65fa06642 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 

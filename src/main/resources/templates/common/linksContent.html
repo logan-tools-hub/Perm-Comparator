@@ -1,0 +1,54 @@
+<html>
+<head>
+</head>
+<body>
+
+<div class="col-3 cls_side_linksWrap" id="accordion" th:fragment="linksContent">
+	
+	<div class="cls_sideToggle" data-toggle="collapse" data-target="#id_userList" aria-expanded="true" aria-controls="id_userList">Users</div>
+	
+	<div class="cls_tabMenus collapse show" aria-labelledby="headingOne" data-parent="#accordion" id="id_userList" th:if="${usersObj != null && usersObj.records != null}">
+		<div class="cls_tabContent">
+			<form class="form-inline d-flex justify-content-center md-form form-sm active-cyan-2">
+				<input class="form-control form-control-sm mr-3 w-75 cls_userSearchInput" type="text" placeholder="Search User Name" aria-label="Search"></input>
+				<i class="fas fa-search text-primary" aria-hidden="true"></i>
+			</form>
+			<div th:each="user: ${usersObj.records}" class="form-check checkbox-teal mb-2 cls_menuItem">
+		      <input type="checkbox" class="form-check-input" perm_type="user" th:id="${user.Id}" >
+		      <label class="form-check-label cls_userCheckboxLabel" th:for="${user.Id}" th:text="${user.Name}">User Name</label>
+		    </div>
+		</div>
+	</div>
+	
+	<div class="cls_sideToggle" data-toggle="collapse" data-target="#id_permissionList" aria-expanded="false" aria-controls="id_permissionList">PermissionSet</div>
+	
+	<div class="cls_tabMenus collapse" aria-labelledby="headingTwo" data-parent="#accordion" id="id_permissionList" th:if="${permissionObj != null && permissionObj.records != null}">
+		<div class="cls_tabContent">
+			<form class="form-inline d-flex justify-content-center md-form form-sm active-cyan-2">
+				<input class="form-control form-control-sm mr-3 w-75 cls_permissionSearchInput" type="text" placeholder="Search PermissionSet" aria-label="Search"></input>
+				<i class="fas fa-search text-primary" aria-hidden="true"></i>
+			</form>
+			<div th:each="permission: ${permissionObj.records}" class="form-check checkbox-teal mb-2 cls_menuItem">
+		      <input type="checkbox" class="form-check-input" perm_type="permissionSet" th:id="${permission.Id}" >
+		      <label class="form-check-label cls_permissionCheckboxLabel" th:for="${permission.Id}" th:id="${permission.Id}" th:text="${permission.Label}">Permission Set</label>
+		    </div>
+		</div>
+	</div>
+	
+	<div class="cls_sideToggle"  data-toggle="collapse" data-target="#id_profileList" aria-expanded="false" aria-controls="id_profileList">Profile</div>
+	<div class="cls_tabMenus collapse" aria-labelledby="headingThree" data-parent="#accordion" id="id_profileList" th:if="${profileObj != null && profileObj.records != null}">
+		<div class="cls_tabContent">
+			<form class="form-inline d-flex justify-content-center md-form form-sm active-cyan-2">
+				<input class="form-control form-control-sm mr-3 w-75 cls_profileSearchInput" type="text" placeholder="Search Profile" aria-label="Search"></input>
+				<i class="fas fa-search text-primary" aria-hidden="true"></i>
+			</form>
+			<div th:each="profile: ${profileObj.records}" class="form-check checkbox-teal mb-2 cls_menuItem">
+		      <input type="checkbox" class="form-check-input" perm_type="profile" th:id="${profile.Id}" >
+		      <label class="form-check-label cls_profileCheckboxLabel" th:for="${profile.Id}" th:text="${profile.Profile.Name}">Profile</label>
+		    </div>
+		</div>
+	</div>
+	
+</div>
+</body>
+</html>

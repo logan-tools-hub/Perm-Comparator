@@ -1,0 +1,41 @@
+<html>
+<head>
+</head>
+<body>
+
+<div class="container-fluid cls_headerContent" th:fragment="header">
+	<div class="row">
+		<div class="col-12 cls_gct_headerWrap cls_collabrationHeaderWrap">
+			<div class="row">	
+				<div class="cls_citiLogo"></div>
+				<div class="cls_collabration_header">Olympus - PermissionSet Comparator</div>				
+				
+				
+	            <a class="nav-link dropdown-toggle waves-effect waves-light" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+	            	<div class="cls_userAvatar"><img class="cls_userAvatar" th:src="${photo}?:'/img/avatar.jpg'" src="/img/avatar.jpg"></img></div>  
+	            </a>
+	            <div class="dropdown-menu dropdown-menu-right dropdown-default" aria-labelledby="navbarDropdownMenuLink">
+	              <a class="dropdown-item waves-effect waves-light" href="/logout">Logout</a>
+	            </div>
+          
+			</div>
+			<div class="row">
+				<div class="cls_userName" th:userId="${userId}"><span>Hello: </span> <span th:text="${userName}?:'Guest'"></span></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid cls_headerContent" th:fragment="loginheader">
+	<div class="row">
+		<div class="col-12 cls_gct_headerWrap cls_collabrationHeaderWrap">
+			<div class="row">	
+				<div class="cls_citiLogo"></div>
+				<div class="cls_collabration_header">Olympus - PermissionSet Comparator</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

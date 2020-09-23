@@ -1,0 +1,130 @@
+<html>
+<head>
+</head>
+<body>
+<div class="cls_formatToolsWrap" th:fragment="tools">
+<div class="cls_formatTools d-none">
+	<button class="cls_formatToolIcon" onclick="" title="Italicize Highlighted Text">
+		
+		<div id="cp2" class="input-group colorpicker-component colorpicker-element"> 
+	      <span class="input-group-addon"><i class="fa fa-font" aria-hidden="true"></i></span>
+		</div>
+	</button>
+
+	<button class="cls_formatToolIcon" onclick="document.execCommand('bold',false,null);" title="Italicize Highlighted Text"><i class="fa fa-bold" aria-hidden="true"></i></button>
+    <button class="cls_formatToolIcon" onclick="document.execCommand('italic',false,null);" title="Italicize Highlighted Text"><i class="fa fa-italic" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('underline',false,null);" title="Italicize Highlighted Text"><i class="fa fa-underline" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('strikethrough',false,null);" title="Italicize Highlighted Text"><i class="fa fa-strikethrough" aria-hidden="true"></i></button>
+	<select class="selectpicker show-menu-arrow">
+		<option>8</option>
+		<option>9</option>
+		<option>10</option>
+		<option>12</option>
+		<option>14</option>
+		<option>16</option>
+		<option>18</option>
+		<option>20</option>
+		<option>22</option>
+		<option>24</option>
+		<option>26</option>
+		<option>28</option>
+	</select>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('copy',false,null);" title="Copy Highlighted Text"><i class="fa fa-copy" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('insertOrderedList',false,null);" title="Italicize Highlighted Text"><i class="fa fa-list-ol" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('insertUnorderedList',false,null);" title="Italicize Highlighted Text"><i class="fa fa-list-ul" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('justifyFull',false,null);" title="Italicize Highlighted Text"><i class="fa fa-align-justify" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('justifyRight',false,null);" title="Italicize Highlighted Text"><i class="fa fa-align-right" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('justifyCenter',false,null);" title="Italicize Highlighted Text"><i class="fa fa-align-center" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('justifyLeft',false,null);" title="Italicize Highlighted Text"><i class="fa fa-align-left" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('subscript',false,null);" title="Italicize Highlighted Text"><i class="fa fa-subscript" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('superscript',false,null);" title="Italicize Highlighted Text"><i class="fa fa-superscript" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('fontSize',false,null);" title="Italicize Highlighted Text"><i class="fa fa-text-height" aria-hidden="true"></i></button>
+	<button class="cls_formatToolIcon" onclick="document.execCommand('width',false,null);" title="Italicize Highlighted Text"><i class="fa fa-text-width" aria-hidden="true"></i></button>
+
+	
+	<a class="dropdown-toggle cls_drawTableIcon cls_formatToolIcon" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-table" aria-hidden="true"></i></a>
+
+	<div class="dropdown-menu cls_drawTable">
+	  
+	  <table class="cls_sampleTable table table-bordered table-responsive-md table-striped text-center">
+	    <tbody>
+	      <tr>
+	        <td class="pt-3-half" coln="1,1"> </td>
+	        <td class="pt-3-half" coln="1,2"> </td>
+	        <td class="pt-3-half" coln="1,3"> </td>
+	        <td class="pt-3-half" coln="1,4"> </td>
+	        <td class="pt-3-half" coln="1,5"> </td>
+	      </tr>
+	      <tr>
+	        <td class="pt-3-half" coln="2,1"> </td>
+	        <td class="pt-3-half" coln="2,2"> </td>
+	        <td class="pt-3-half" coln="2,3"> </td>
+	        <td class="pt-3-half" coln="2,4"> </td>
+	        <td class="pt-3-half" coln="2,5"> </td>
+	      </tr>
+	      <tr>
+	        <td class="pt-3-half" coln="3,1"> </td>
+	        <td class="pt-3-half" coln="3,2"> </td>
+	        <td class="pt-3-half" coln="3,3"> </td>
+	        <td class="pt-3-half" coln="3,4"> </td>
+	        <td class="pt-3-half" coln="3,5"> </td>
+	      </tr>
+	      	<td class="pt-3-half" coln="4,1"> </td>
+	        <td class="pt-3-half" coln="4,2"> </td>
+	        <td class="pt-3-half" coln="4,3"> </td>
+	        <td class="pt-3-half" coln="4,4"> </td>
+	        <td class="pt-3-half" coln="4,5"> </td>
+	      <tr>
+	        <td class="pt-3-half" coln="5,1"> </td>
+	        <td class="pt-3-half" coln="5,2"> </td>
+	        <td class="pt-3-half" coln="5,3"> </td>
+	        <td class="pt-3-half" coln="5,4"> </td>
+	        <td class="pt-3-half" coln="5,5"> </td>
+	      </tr>
+	    </tbody>
+	  </table>
+  	
+	</div>
+
+	
+			
+
+	<button type="button" class="" data-toggle="modal" data-target="#basicExampleModal">
+	  <i class="fa fa-file-image-o" aria-hidden="true"></i>
+	</button>
+	
+	<!-- Modal -->
+	<div class="modal fade" id="basicExampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+	  aria-hidden="true">
+	  <div class="modal-dialog" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <h5 class="modal-title" id="exampleModalLabel">Upload Image</h5>
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	          <span aria-hidden="true">&times;</span>
+	        </button>
+	      </div>
+	      <div class="modal-body">
+	        
+	        <div class="file-upload-wrapper">
+	  			<input type="file" id="input-file-now" class="file-upload" />
+			</div>	
+			
+			<div class="cls_imagePreview">
+				
+			</div>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+	        <button type="button" class="btn btn-primary cls_uploadImagesToBody">Uplaod</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	
+</div>
+
+<button type="button" class="btn btn-outline-info waves-effect cls_btn_pageEdit">Edit</button>	
+</div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+              client-id: 649604606334-afqr7fdbminern831nnev51rdmpf4638.apps.googleusercontent.com
+              client-secret: gl5Njz7DKCRvb8HBxBj61XHO
+              redirect-uri: "{baseUrl}/user"
+          sf:
+            client-id: 3MVG9n_HvETGhr3CiL1UuFb0BLlCgqjaD4uwD1WHeYYZasK5RUCMHNtAEgJrFQTr51lWOewNirE7dCCPTz21f
+            client-secret: C777EED6BC7F95B7E05D5D4EF38A82BC777F003805CFF3994F5C5E45EBD44B45
+            authorization-grant-type: authorization_code
+            client-authentication-method: password
+            redirect-uri: "{baseUrl}/permcomparator/callback" 
+            scope:
+             - full
+          salesforce:
+            client-id: 3MVG9n_HvETGhr3CiL1UuFb0BLlCgqjaD4uwD1WHeYYZasK5RUCMHNtAEgJrFQTr51lWOewNirE7dCCPTz21f
+            client-secret: C777EED6BC7F95B7E05D5D4EF38A82BC777F003805CFF3994F5C5E45EBD44B45
+            authorization-grant-type: authorization_code
+            client-authentication-method: password
+            redirect-uri: "{baseUrl}/permcomparator/callback" 
+            scope:
+             - full
+            
+        provider:
+          google:
+              authorization-uri: https://accounts.google.com/o/oauth2/auth
+              token-uri: https://oauth2.googleapis.com/token
+          sf:
+            authorization-uri: https://test.salesforce.com/services/oauth2/authorize
+            token-uri: https://test.salesforce.com/services/oauth2/token
+            user-info-uri: https://test.salesforce.com/services/oauth2/userinfo
+          salesforce:
+            authorization-uri: https://login.salesforce.com/services/oauth2/authorize
+            token-uri: https://login.salesforce.com/services/oauth2/token
+            user-info-uri: https://login.salesforce.com/services/oauth2/userinfo
+#server:
+#  port: 8443
+  #ssl:
+  #  key-alias: selfsigned_localhost_sslserver
+  #  key-password: loganathan
+  #  key-store: classpath:ssl-server.jks
+  #  key-store-provider: SUN
+  #  key-store-type: JKS
